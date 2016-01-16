@@ -1,0 +1,39 @@
+{
+  "name": "mobajs",
+  "version": "0.0.1",
+  "description": "MOBA in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiberiualex/mobajs.git"
+  },
+  "keywords": [
+    "game",
+    "moba",
+    "phaser"
+  ],
+  "author": [
+    "Tiberiu Alexandru Butnaru",
+    "Eduard Catalin Ghita"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiberiualex/mobajs/issues"
+  },
+  "homepage": "https://github.com/tiberiualex/mobajs#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.11.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "phaser": "^2.4.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
